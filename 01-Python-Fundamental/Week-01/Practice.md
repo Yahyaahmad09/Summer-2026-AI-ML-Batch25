@@ -20,10 +20,10 @@ Practice each concept immediately after watching the lectures.
 Write programs to:
 
 - Print **"Welcome to Electrical Engineering with Python!"**
-- Store your name, university and department in variables.
-- Store voltage and current values in variables.
-- Display all values using print().
-- Take your name as input and display a welcome message.
+- Store your name, department and semester in variables.
+- Store the voltage of a battery (e.g., 12V).
+- Store the current of a circuit (e.g., 2A).
+- Display all values using `print()`.
 
 ---
 
@@ -31,10 +31,14 @@ Write programs to:
 
 Create programs to:
 
-- Store information of an electrical appliance.
-- Display the specifications of a light bulb.
-- Display the specifications of a fan.
-- Calculate electrical power using **P = V × I**.
+- Take voltage (V) and current (I) as input.
+- Calculate Electrical Power.
+
+**Formula**
+
+**Power (P) = Voltage (V) × Current (I)**
+
+- Display the result with the unit **Watts (W)**.
 
 ---
 
@@ -45,10 +49,10 @@ Create an **Electrical Appliance Card**.
 Display:
 
 - Appliance Name
-- Voltage
-- Current
-- Power
-- Location
+- Voltage (V)
+- Current (A)
+- Power (W)
+- Room Number
 
 ---
 
@@ -66,10 +70,10 @@ Display:
 
 Write programs to:
 
-- Check whether voltage is greater than 220V.
-- Check whether battery percentage is above 50%.
-- Print numbers from 1 to 10.
-- Print voltage values from 210V to 230V.
+- Check whether voltage is greater than **220V**.
+- Check whether battery percentage is greater than **50%**.
+- Print numbers from **1 to 10**.
+- Print voltage values from **210V to 220V**.
 
 ---
 
@@ -77,10 +81,9 @@ Write programs to:
 
 Create programs to:
 
-- Print the power of five appliances.
-- Find the appliance with the highest power.
-- Display even numbered electrical poles from 2 to 20.
-- Print a simple appliance list using a loop.
+- Display the names of five electrical appliances using a loop.
+- Display voltage values from 10V to 100V.
+- Find the appliance with the highest power rating.
 
 ---
 
@@ -90,9 +93,14 @@ Create a **Room Power Calculator**.
 
 The program should:
 
-- Ask for the power of three appliances.
+- Take the power rating of three appliances.
 - Calculate the total power.
-- Display the result.
+
+**Formula**
+
+**Total Power = Power₁ + Power₂ + Power₃**
+
+Display the result.
 
 ---
 
@@ -118,21 +126,30 @@ Create functions to:
 
 Create reusable functions for:
 
-- Power Calculation
-- Appliance Details
-- Voltage Check
-- Battery Status
+- Power
+
+  **P = V × I**
+
+- Energy
+
+  **Energy = Power × Time**
+
+- Convert Watts to Kilowatts
+
+  **kW = W / 1000**
 
 ---
 
 ### 🔴 Level 3
 
-Create a simple **Electrical Calculator** using functions.
+Create a simple **Electrical Calculator**.
 
 The calculator should calculate:
 
 - Power
 - Energy
+
+using user input.
 
 ---
 

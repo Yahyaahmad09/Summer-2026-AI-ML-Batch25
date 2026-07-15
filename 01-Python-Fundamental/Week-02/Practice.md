@@ -1,5 +1,3 @@
-# 💻 Week 2 – Practice Tasks
-
 Practice each concept immediately after watching the lectures.
 
 ---
@@ -20,7 +18,11 @@ Create:
 
 - A list of five electrical appliances.
 - A tuple of standard voltages.
-- A dictionary for a solar panel.
+- A dictionary containing:
+
+  - Appliance Name
+  - Voltage
+  - Power
 
 ---
 
@@ -29,24 +31,19 @@ Create:
 Create programs to:
 
 - Display all appliance names.
-- Display all voltages.
-- Store motor information in a dictionary.
-- Find the highest appliance power.
+- Display all voltage values.
+- Search for an appliance in the list.
+- Display appliance details using a dictionary.
 
 ---
 
 ### 🔴 Level 3
 
-Create an **Electrical Inventory**.
+Create an **Electrical Equipment Inventory**.
 
-Store:
+Store information for at least **five appliances**.
 
-- Appliance Name
-- Voltage
-- Power
-- Quantity
-
-Display all stored information.
+Display all information neatly.
 
 ---
 
@@ -62,7 +59,7 @@ Display all stored information.
 
 ### 🟢 Level 1
 
-Write programs to:
+Create programs to:
 
 - Create a text file.
 - Save appliance names.
@@ -74,10 +71,10 @@ Write programs to:
 
 Create programs to:
 
-- Save appliance data into a CSV file.
-- Read appliance data from a CSV file.
-- Store motor information in a JSON file.
-- Read JSON data.
+- Save appliance information in a CSV file.
+- Read the CSV file.
+- Save appliance information in a JSON file.
+- Read the JSON file.
 
 ---
 
@@ -88,8 +85,8 @@ Create an **Electrical Equipment Record System**.
 The program should:
 
 - Store appliance information.
-- Save the data in a JSON file.
-- Load and display the saved data.
+- Save the data.
+- Read and display the saved data.
 
 ---
 
@@ -107,8 +104,8 @@ The program should:
 
 Practice:
 
-- Import the math module.
-- Import the random module.
+- Import the `math` module.
+- Import the `random` module.
 - Create your own module.
 
 ---
@@ -117,27 +114,32 @@ Practice:
 
 Create programs to:
 
-- Import functions from your module.
-- Split your calculator into multiple files.
-- Run the program from the terminal.
+- Import your own functions.
+- Split your calculator into multiple Python files.
 
 ---
 
 ### 🔴 Level 3
 
-Create a simple **Electrical Utility Program**.
+Create an **Electrical Utility Program**.
 
 The program should:
 
-- Display appliance information.
-- Calculate electrical power.
-- Use your own Python module.
+- Calculate Power
+
+  **P = V × I**
+
+- Calculate Energy
+
+  **Energy = Power × Time**
+
+using functions from your own module.
 
 ---
 
 # 📦 Practice Deliverables
 
-- ✅ Electrical Inventory
-- ✅ Equipment Record System
+- ✅ Electrical Equipment Inventory
+- ✅ Electrical Equipment Record System
 - ✅ Electrical Utility Program
 - ✅ Python Practice Notebook
