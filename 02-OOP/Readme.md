@@ -108,6 +108,21 @@ By the end of this module, students should complete:
 
 ---
 
+
+
+# ⬅️ Previous Module
+
+Return to:
+
+➡️ **[../../01-Python-Fundamental/README.md](../../01-Python-Fundamental/README.md)**
+
+---
+
 # 🚀 Next Module
 
-The next module introduces **NumPy**, where students will learn efficient numerical computing, array operations, broadcasting, mathematical functions, and linear algebra for engineering applications.
+Continue to:
+
+➡️ **[../../03-NumPy/README.md](../../03-NumPy/README.md)**
+
+
+Week 4 introduces **NumPy**, where students will learn numerical computing using arrays, mathematical operations, broadcasting, and linear algebra for engineering applications.
