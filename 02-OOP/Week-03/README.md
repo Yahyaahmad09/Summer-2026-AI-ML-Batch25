@@ -90,27 +90,31 @@ By the end of this week, students will be able to:
 
 ---
 
-# 📚 Resources
+# 📚 Learning Resources
 
-The complete list of learning resources is available in:
+The complete list of learning resources, video lectures, documentation, and supplementary materials is available in:
 
-**➡️ Resources.md**
+➡️ **[Resources.md](Resources.md)**
 
 ---
 
 # 📖 Reading Tasks
 
-Detailed reading tasks are available in:
+Detailed reading objectives and assigned resources for this module are available in:
 
-**➡️ Reading.md**
+➡️ **[Week-03/Reading.md](Week-03/Reading.md)**
+
 
 ---
 
 # 💻 Practice Tasks
 
-Hands-on programming exercises are available in:
+Hands-on programming exercises and electrical engineering–based practice activities are available in:
 
-**➡️ Practice.md**
+➡️ **[Week-03/Practice.md](Week-03/Practice.md)**
+
+
+---
 
 All practice activities use simple **Electrical Engineering examples**, such as batteries, fans, motors, transformers, solar panels, and electrical appliances.
 

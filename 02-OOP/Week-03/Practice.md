@@ -160,4 +160,4 @@ By the end of Week 3, students should submit:
 - ✅ Transformer Class
 - ✅ Electrical Equipment Management System
 - ✅ OOP Practice Notebook
-- ✅ GitHub repository updated with all Week 3 practice exercises
+- ✅ GitHub repository updated with all Week 3 practice exercise
