@@ -48,14 +48,46 @@ This module contains:
 
 No prior programming knowledge is required.
 
----
+# 📚 Learning Resources
 
-## 📎 Resources
+The complete list of learning resources, video lectures, documentation, and supplementary materials is available in:
 
-All learning resources for this module are available in:
-
-> **Resources.md**
+➡️ **[Resources.md](Resources.md)**
 
 ---
+
+# 📅 Weekly Study Plan
+
+## Week 1
+
+➡️ **[Week-01/README.md](Week-01/README.md)**
+
+## Week 2
+
+➡️ **[Week-02/README.md](Week-02/README.md)**
+
+---
+
+# 📖 Reading Tasks
+
+### Week 1
+
+➡️ **[Week-01/Reading.md](Week-01/Reading.md)**
+
+### Week 2
+
+➡️ **[Week-02/Reading.md](Week-02/Reading.md)**
+
+---
+
+# 💻 Practice Tasks
+
+### Week 1
+
+➡️ **[Week-01/Practice.md](Week-01/Practice.md)**
+
+### Week 2
+
+➡️ **[Week-02/Practice.md](Week-02/Practice.md)**
 
 Happy Coding! 🚀

@@ -88,27 +88,27 @@ By the end of this week, students will be able to:
 
 ---
 
-# 📚 Resources
+# 📚 Learning Resources
 
-The complete list of learning resources is available in:
+The complete list of learning resources for this module is available in:
 
-**➡️ Resources.md**
+➡️ **[../Resources.md](../Resources.md)**
 
 ---
 
 # 📖 Reading Tasks
 
-Detailed reading tasks are available in:
+The reading activities for Week 1 are available in:
 
-**➡️ Reading.md**
+➡️ **[Reading.md](Reading.md)**
 
 ---
 
 # 💻 Practice Tasks
 
-Detailed programming exercises are available in:
+The programming exercises for Week 1 are available in:
 
-**➡️ Practice.md**
+➡️ **[Practice.md](Practice.md)**
 
 ---
 
@@ -125,7 +125,21 @@ By the end of Week 1, students should have completed:
 
 ---
 
-# 🚀 Next Week
+
+# 📅 Next Week
+
+Continue to:
+Week 2 focuses on:
+
+- Lists
+- Tuples
+- Dictionaries
+- File Handling
+- CSV & JSON
+- Python Modules
+- Running Scripts
+
+➡️ **[../Week-02/README.md](../Week-02/README.md)**
 
 Week 2 focuses on:
 

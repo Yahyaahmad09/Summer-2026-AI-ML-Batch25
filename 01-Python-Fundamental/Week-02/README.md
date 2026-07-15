@@ -85,27 +85,35 @@ By the end of this week, students will be able to:
 
 ---
 
-# 📚 Resources
+# 📚 Learning Resources
 
-Complete learning resources are available in:
+The complete list of learning resources for this module is available in:
 
-**➡️ Resources.md**
+➡️ **[../Resources.md](../Resources.md)**
 
 ---
 
 # 📖 Reading Tasks
 
-Detailed reading tasks are available in:
+The reading activities for Week 2 are available in:
 
-**➡️ Reading.md**
+➡️ **[Reading.md](Reading.md)**
 
 ---
 
 # 💻 Practice Tasks
 
-Detailed programming exercises are available in:
+The programming exercises for Week 2 are available in:
 
-**➡️ Practice.md**
+➡️ **[Practice.md](Practice.md)**
+
+---
+
+# ⬅️ Previous Week
+
+Return to:
+
+➡️ **[../Week-01/README.md](../Week-01/README.md)**
 
 ---
 
@@ -120,6 +128,12 @@ Students should complete:
 
 ---
 
+
 # 🚀 Next Module
+
+Continue to:
+
+➡️ **[../../02-OOP/README.md](../../02-OOP/README.md)**
+
 
 Module 2 – Object-Oriented Programming (OOP)

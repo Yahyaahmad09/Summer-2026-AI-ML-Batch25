@@ -92,33 +92,33 @@ By the end of this week, students will be able to:
 
 # 📚 Learning Resources
 
-The complete list of learning resources, video lectures, documentation, and supplementary materials is available in:
+The complete list of learning resources for this module is available in:
 
-➡️ **[Resources.md](Resources.md)**
+➡️ **[../Resources.md](../Resources.md)**
 
 ---
 
 # 📖 Reading Tasks
 
-Detailed reading objectives and assigned resources for this module are available in:
+The reading activities for Week 3 are available in:
 
-➡️ **[Week-03/Reading.md](Week-03/Reading.md)**
-
+➡️ **[Reading.md](Reading.md)**
 
 ---
 
 # 💻 Practice Tasks
 
-Hands-on programming exercises and electrical engineering–based practice activities are available in:
+The programming exercises for Week 3 are available in:
 
-➡️ **[Week-03/Practice.md](Week-03/Practice.md)**
-
+➡️ **[Practice.md](Practice.md)**
 
 ---
 
 All practice activities use simple **Electrical Engineering examples**, such as batteries, fans, motors, transformers, solar panels, and electrical appliances.
 
 ---
+
+
 
 # 📦 Weekly Deliverables
 
@@ -133,6 +133,20 @@ By the end of Week 3, students should have completed:
 
 ---
 
+
+# ⬅️ Previous Module
+
+Return to:
+
+➡️ **[../../01-Python-Fundamental/README.md](../../01-Python-Fundamental/README.md)**
+
+---
+
 # 🚀 Next Module
+
+Continue to:
+
+➡️ **[../../03-NumPy/README.md](../../03-NumPy/README.md)**
+
 
 Week 4 introduces **NumPy**, where students will learn numerical computing using arrays, mathematical operations, broadcasting, and linear algebra for engineering applications.
