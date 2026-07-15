@@ -75,7 +75,7 @@ The following topics are covered throughout this module:
 
 The complete list of learning resources, video lectures, documentation, and supplementary materials is available in:
 
-**➡️ Resources.md**
+➡️ **[Resources.md](Resources.md)**
 
 ---
 
@@ -83,7 +83,8 @@ The complete list of learning resources, video lectures, documentation, and supp
 
 Detailed reading objectives and assigned resources for this module are available in:
 
-**➡️ Week-03/Reading.md**
+➡️ **[Week-03/Reading.md](Week-03/Reading.md)**
+
 
 ---
 
@@ -91,7 +92,8 @@ Detailed reading objectives and assigned resources for this module are available
 
 Hands-on programming exercises and electrical engineering–based practice activities are available in:
 
-**➡️ Week-03/Practice.md**
+➡️ **[Week-03/Practice.md](Week-03/Practice.md)**
+
 
 ---
 
