@@ -1,6 +1,6 @@
 # 💻 Week 1 – Practice Tasks
 
-Practice every concept immediately after watching the lectures.
+Practice each concept immediately after watching the lectures.
 
 ---
 
@@ -17,11 +17,13 @@ Practice every concept immediately after watching the lectures.
 
 ### 🟢 Level 1
 
-- Print text using `print()`.
-- Print multiple values.
-- Create variables of different data types.
-- Perform basic arithmetic operations.
-- Take user input and display the result.
+Write programs to:
+
+- Print **"Welcome to Electrical Engineering with Python!"**
+- Store your name, university and department in variables.
+- Store voltage and current values in variables.
+- Display all values using print().
+- Take your name as input and display a welcome message.
 
 ---
 
@@ -29,23 +31,24 @@ Practice every concept immediately after watching the lectures.
 
 Create programs to:
 
-- Store student information.
-- Calculate the sum of two numbers.
-- Swap two variables.
-- Convert temperature (°C ↔ °F).
+- Store information of an electrical appliance.
+- Display the specifications of a light bulb.
+- Display the specifications of a fan.
+- Calculate electrical power using **P = V × I**.
 
 ---
 
 ### 🔴 Level 3
 
-Create a **Student Information Card** program that displays:
+Create an **Electrical Appliance Card**.
 
-- Name
-- Age
-- University
-- Department
-- Semester
-- CGPA
+Display:
+
+- Appliance Name
+- Voltage
+- Current
+- Power
+- Location
 
 ---
 
@@ -61,10 +64,12 @@ Create a **Student Information Card** program that displays:
 
 ### 🟢 Level 1
 
-- Check whether a number is positive or negative.
-- Check even or odd numbers.
-- Compare two numbers.
-- Print numbers from 1–20 using a loop.
+Write programs to:
+
+- Check whether voltage is greater than 220V.
+- Check whether battery percentage is above 50%.
+- Print numbers from 1 to 10.
+- Print voltage values from 210V to 230V.
 
 ---
 
@@ -72,20 +77,22 @@ Create a **Student Information Card** program that displays:
 
 Create programs to:
 
-- Find the largest of three numbers.
-- Print multiplication tables.
-- Calculate the sum of numbers from 1 to N.
-- Print simple star (`*`) patterns.
+- Print the power of five appliances.
+- Find the appliance with the highest power.
+- Display even numbered electrical poles from 2 to 20.
+- Print a simple appliance list using a loop.
 
 ---
 
 ### 🔴 Level 3
 
-Create a **Number Guessing Game** using:
+Create a **Room Power Calculator**.
 
-- `while` loop
-- `if-else`
-- User input
+The program should:
+
+- Ask for the power of three appliances.
+- Calculate the total power.
+- Display the result.
 
 ---
 
@@ -99,41 +106,39 @@ Create a **Number Guessing Game** using:
 
 ### 🟢 Level 1
 
-- Create functions with parameters.
-- Return values from functions.
-- Call functions multiple times.
+Create functions to:
+
+- Display a welcome message.
+- Calculate electrical power.
+- Display appliance information.
 
 ---
 
 ### 🟡 Level 2
 
-Create functions for:
+Create reusable functions for:
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Average of numbers
+- Power Calculation
+- Appliance Details
+- Voltage Check
+- Battery Status
 
 ---
 
 ### 🔴 Level 3
 
-Create a **Simple Calculator** using functions that allows users to:
+Create a simple **Electrical Calculator** using functions.
 
-- Add
-- Subtract
-- Multiply
-- Divide
+The calculator should calculate:
+
+- Power
+- Energy
 
 ---
 
 # 📦 Practice Deliverables
 
-By the end of Week 1, students should submit:
-
-- ✅ Student Information Card Program
-- ✅ Number Guessing Game
-- ✅ Simple Calculator
+- ✅ Electrical Appliance Card
+- ✅ Room Power Calculator
+- ✅ Electrical Calculator
 - ✅ Python Practice Notebook
-- ✅ GitHub repository updated with all practice exercises
