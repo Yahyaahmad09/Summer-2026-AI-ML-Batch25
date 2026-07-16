@@ -1,0 +1,8 @@
+Appliance,Power_W,Energy_kWh
+Fan,75,0.6
+LED Lights,30,0.18
+Refrigerator,180,2.16
+Laptop,65,0.39
+TV,120,0.48
+Air Conditioner,1500,6.0
+Water Pump,750,1.5

@@ -1,0 +1,13 @@
+"""Variables"""
+voltage=230
+current=5
+power=voltage*current
+print(power)
+student='Ali'
+print(student)
+pi=3.14
+print(pi)
+active=True
+print(active)
+sensor_id='T1'
+print(sensor_id)
