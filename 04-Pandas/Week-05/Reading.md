@@ -10,83 +10,72 @@ Students should complete the assigned reading after watching the corresponding l
 
 ## Introduction to Pandas
 
-### 📚 Primary Resource
+### 📖 Reading Resources
 
-Corey Schafer – Pandas Tutorials
-
-https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
-
-### 📚 Secondary Resource
-
-Keith Galli – Complete Pandas Tutorial
-
-https://youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y
-
-### 📖 Additional Reading
-
-Pandas Official Documentation
+#### Pandas Official Documentation
 
 https://pandas.pydata.org/docs/
+
+#### Real Python – Pandas Learning Path
+
+https://realpython.com/learning-paths/pandas-data-science/
 
 ---
 
 ### 🎯 Objectives
 
-- Understand why Pandas is used.
-- Learn the difference between Series and DataFrames.
-- Understand rows, columns, and indexes.
-- Learn how Pandas stores tabular data.
+- Understand what Pandas is.
+- Learn why Pandas is used.
+- Understand Series and DataFrames.
+- Learn the basic structure of tabular data.
 
 ---
 
 ### 📚 Reading Tasks
 
 - Read the introduction to Pandas.
-- Understand what a Series is.
-- Understand what a DataFrame is.
+- Read about Series.
+- Read about DataFrames.
 - Compare a DataFrame with an Excel spreadsheet.
+- Execute the code examples.
 - Write **3–5 key learning points**.
 
 ---
 
 # 📅 Thursday
 
-## Reading CSV Files & Data Selection
+## Working with Data
 
-### 📚 Primary Resource
+### 📖 Reading Resources
 
-Corey Schafer – Pandas Tutorials
-
-### 📚 Secondary Resource
-
-Keith Galli – Complete Pandas Tutorial
-
-### 📖 Additional Reading
-
-Pandas Official Documentation
+#### Pandas Official Documentation
 
 https://pandas.pydata.org/docs/
+
+#### Real Python – Pandas Learning Path
+
+https://realpython.com/learning-paths/pandas-data-science/
 
 ---
 
 ### 🎯 Objectives
 
-- Learn how to load CSV files.
-- Understand DataFrame indexing.
+- Understand CSV files.
+- Learn DataFrame indexing.
 - Select rows and columns.
-- Filter data.
-- Sort data.
+- Filter datasets.
+- Sort datasets.
 
 ---
 
 ### 📚 Reading Tasks
 
-- Read the documentation about `read_csv()`.
-- Read about selecting columns.
+- Read about `read_csv()`.
+- Read about selecting rows and columns.
 - Read about filtering data.
 - Read about sorting data.
-- Execute every code example.
-- Modify the examples and observe the output.
+- Execute every example.
+- Modify the examples.
 - Write **3–5 key learning points**.
 
 ---
