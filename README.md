@@ -1,96 +1,161 @@
-# 🚀 AI/ML Batch 25 – Preparation Program
+# 🚀 Summer 2026 – AI & Machine Learning Batch 25
 
-Welcome to the official repository for the **AI/ML Batch 25 Preparation Program**.
+Welcome to the official repository for the **Summer 2026 AI & Machine Learning Batch 25**.
 
-This repository provides a structured learning roadmap for students preparing for **Machine Learning (ML)** and **Deep Learning (DL)**. The curriculum emphasizes strong programming fundamentals, scientific computing, data analysis, and professional development practices before advancing to AI and ML frameworks.
+This repository contains structured course material, weekly study plans, reading resources, practice exercises, and hands-on programming tasks designed specifically for **Electrical Engineering students**.
 
----
-
-## 🎯 Course Objectives
-
-By the end of the Summer 2026 program, students will be able to:
-
-- 🐍 Write clean, readable, and maintainable Python code.
-- 🏗️ Apply Object-Oriented Programming (OOP) concepts in Python.
-- 🔢 Perform numerical computing using NumPy.
-- 📊 Analyze and preprocess datasets using Pandas.
-- 📈 Create professional data visualizations using Matplotlib.
-- 🛠️ Work efficiently with Python development tools such as Conda, Jupyter Notebook, and command-line scripts.
-- 💻 Follow professional coding practices and organize projects using Git and GitHub.
+The course focuses on building a strong Python foundation before progressing toward Data Science and Machine Learning.
 
 ---
 
-## 📚 Summer 2026 Curriculum
+# 🎯 Course Objectives
 
-| Week | Module | Duration |
-|------|---------|----------|
-| Week 1–2 | 🐍 Module 1 – Python Programming | 2 Weeks |
-| Week 3 | 🏗️ Module 2 – Object-Oriented Programming | 1 Week |
-| Week 4 | 🔢 Module 3 – NumPy | 1 Week |
-| Week 5–6 | 📊 Module 4 – Pandas | 2 Weeks |
-| Week 7 | 📈 Module 5 – Matplotlib | 1 Week |
-| Week 8 | 🛠️ Module 6 – Python Development Tools | 1 Week |
+By the end of this course, students will be able to:
 
----
-
-## 📂 Repository Structure
-
-Each module is organized to provide a consistent learning experience and includes:
-
-- 📅 Weekly study plans
-- 🎥 Learning resources
-- 📖 Reading tasks
-- 💻 Practice exercises
-- 📁 Sample files and datasets (where applicable)
+- Write Python programs confidently.
+- Apply Object-Oriented Programming (OOP) concepts.
+- Perform numerical computing using NumPy.
+- Analyze and manipulate datasets using Pandas.
+- Create professional visualizations with Matplotlib.
+- Use modern Python development tools.
+- Develop clean, organized, and maintainable Python projects.
+- Build a strong foundation for Artificial Intelligence and Machine Learning.
 
 ---
 
-## 📝 Learning Approach
+# 📚 Course Modules
 
-Each week follows a structured study plan consisting of:
-
-- 🎥 **Watching** – Video lectures from selected resources.
-- 📖 **Reading** – Documentation and reference articles.
-- 💻 **Practice** – Hands-on coding exercises organized into Level 1, Level 2, and Level 3.
-
-Students are encouraged to complete all practice exercises before moving to the next module.
-
----
-
-## 💡 Student Guidelines
-
-- Complete modules in the recommended order.
-- Practice every concept through coding.
-- Read the recommended documentation.
-- Maintain a separate personal GitHub repository for your work.
-- Commit your work regularly using meaningful commit messages.
-- Focus on understanding concepts rather than memorizing code.
+| Module | Duration | Topics |
+|---------|----------|--------|
+| 🐍 [Module 1 – Python Fundamentals](01-Python-Fundamental/README.md) | Weeks 1–2 | Python Basics, Variables, Operators, Functions, Loops, File Handling |
+| 🏗️ [Module 2 – Object-Oriented Programming](02-OOP/README.md) | Week 3 | Classes, Objects, Inheritance, Composition, Special Methods |
+| 🔢 [Module 3 – NumPy](03-NumPy/README.md) | Week 4 | Arrays, Broadcasting, Mathematical Operations, Linear Algebra |
+| 📊 [Module 4 – Pandas](04-Pandas/README.md) | Weeks 5–6 | DataFrames, Data Cleaning, GroupBy, Data Analysis |
+| 📈 [Module 5 – Matplotlib](05-Matplotlib/README.md) | Week 7 | Data Visualization, Charts, Plot Customization |
+| 🛠️ [Module 6 – Python Development Tools](06-Python-Development-Tools/README.md) | Week 8 | Git, GitHub, VS Code, Virtual Environments, Jupyter Notebook |
 
 ---
 
-## 🛠️ Prerequisites
+# 🗓️ Weekly Schedule
 
-Before starting the course, install:
+| Week | Module |
+|------|--------|
+| Week 1 | Python Fundamentals |
+| Week 2 | Python Fundamentals |
+| Week 3 | Object-Oriented Programming |
+| Week 4 | NumPy |
+| Week 5 | Pandas |
+| Week 6 | Pandas |
+| Week 7 | Matplotlib |
+| Week 8 | Python Development Tools |
+
+---
+
+# 📂 Repository Structure
+
+```text
+Summer-2026-AI-ML-Batch25/
+│
+├── README.md
+│
+├── 01-Python-Fundamental/
+├── 02-OOP/
+├── 03-NumPy/
+├── 04-Pandas/
+├── 05-Matplotlib/
+└── 06-Python-Development-Tools/
+```
+
+---
+
+# 📖 Learning Workflow
+
+For every module, follow this sequence:
+
+1. 📚 Read the **Module README**
+2. 🎥 Watch the recommended videos in **Resources.md**
+3. 📖 Complete the weekly **Reading.md**
+4. 💻 Finish all exercises in **Practice.md**
+5. ✅ Commit your work to GitHub
+
+---
+
+# 💻 Software Requirements
+
+Install the following software before starting:
 
 - Python 3.x
-- Visual Studio Code (or another Python IDE)
+- Visual Studio Code
 - Git
 - GitHub Account
-- Anaconda or Miniconda
 - Jupyter Notebook
 
+Required Python packages:
+
+```bash
+pip install numpy pandas matplotlib jupyter
+```
+
 ---
 
-## 📌 Course Philosophy
+# 📌 Learning Guidelines
 
-This program is designed to build a strong foundation before entering the fields of **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**. The emphasis is on mastering core programming concepts through consistent practice and structured learning.
+- Watch lectures before reading.
+- Read the official documentation regularly.
+- Write every program yourself.
+- Practice daily.
+- Use meaningful variable names.
+- Write clean and organized code.
+- Commit your progress regularly to GitHub.
+- Ask questions whenever you encounter difficulties.
 
 ---
 
-<div align="center">
+# ⚡ Electrical Engineering Focus
 
-### 🌟 AI/ML Batch 25 – Summer 2026 🌟
+Practice exercises throughout the course use Electrical Engineering datasets and examples, including:
 
-**Learn • Practice • Build • Grow**
+- Voltage (V)
+- Current (A)
+- Resistance (Ω)
+- Power (W)
+- Energy (kWh)
+- Solar Generation
+- Battery State of Charge (SOC)
+- Electrical Load
+- Sensor Measurements
 
-</div>
+---
+
+# 📦 Expected Learning Outcomes
+
+After completing this repository, students will be able to:
+
+- Develop Python applications.
+- Apply Object-Oriented Programming principles.
+- Work efficiently with NumPy arrays.
+- Analyze real-world datasets using Pandas.
+- Create professional visualizations using Matplotlib.
+- Use Git and GitHub for version control.
+- Organize Python projects following professional practices.
+- Build a strong foundation for Machine Learning and Artificial Intelligence.
+
+---
+
+# 🤝 Contributing
+
+Students are encouraged to:
+
+- Complete all weekly exercises.
+- Improve existing solutions.
+- Report issues or errors.
+- Share useful learning resources.
+- Maintain clean and readable code.
+
+---
+
+# 📜 License
+
+This repository is intended for educational purposes as part of the **Summer 2026 AI & Machine Learning Batch 25**.
+
+Happy Learning! 🚀

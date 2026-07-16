@@ -1,154 +1,141 @@
-# 📚 Module 5 – Learning Resources
+# 📈 Module 5 – Matplotlib
 
-This document contains all learning resources for **Module 5 – Matplotlib**.
-
-Students should follow the resources in the recommended order to build a strong foundation in data visualization using Python.
+**Duration:** 1 Week (Week 7)
 
 ---
 
-# 🎥 Primary Resource
+# 📖 Module Overview
 
-## Corey Schafer – Matplotlib Tutorials
+This module introduces **Matplotlib**, the most widely used Python library for data visualization. Students will learn how to create professional charts and graphs to visualize data generated using **NumPy** and **Pandas**.
 
-**Description**
+The module follows the selected **Corey Schafer – Matplotlib Tutorials** as the primary learning resource, supported by the official Matplotlib documentation and Real Python articles.
 
-The primary video course for this module. It introduces Matplotlib from the fundamentals and gradually covers plotting techniques, chart customization, multiple chart types, working with CSV files, plotting with Pandas, and creating professional visualizations.
+Throughout this module, students will visualize **Electrical Engineering datasets** such as voltage, current, power, energy consumption, battery state of charge (SOC), solar generation, and electrical load demand.
 
-**Topics Covered**
+---
 
+# 🎯 Learning Outcomes
+
+By the end of this module, students will be able to:
+
+- Understand the importance of data visualization.
+- Create professional plots using Matplotlib.
+- Build line, bar, scatter, histogram, pie, and stack plots.
+- Customize charts using titles, labels, legends, grids, and styles.
+- Visualize NumPy arrays and Pandas DataFrames.
+- Save figures for reports and presentations.
+- Select appropriate chart types for engineering datasets.
+
+---
+
+# 📅 Weekly Distribution
+
+| Week | Focus | Watching | Reading | Practice | Total |
+|------|-------|----------|----------|-----------|-------|
+| Week 7 | Data Visualization with Matplotlib | 2h 30m | 1 Hour | 2 Hours | 5h 30m |
+
+---
+
+# 📊 Time Distribution
+
+| Activity | Hours |
+|----------|------:|
+| 🎥 Watching | 2h 30m |
+| 📖 Reading | 1 Hour |
+| 💻 Practice | 2 Hours |
+| **Total** | **5h 30m** |
+
+---
+
+# 📚 Topics Covered
+
+- Why Data Visualization
 - Introduction to Matplotlib
 - Installing Matplotlib
 - Pyplot
-- Creating Figures
-- Line Plots
-- Bar Charts
-- Histograms
-- Scatter Plots
-- Pie Charts
-- Stack Plots
-- Plot Customization
-- Legends
-- Labels
+- Figures and Axes
+- Line Plot
+- Bar Chart
+- Scatter Plot
+- Histogram
+- Pie Chart
+- Stack Plot
 - Titles
-- Styles
+- Axis Labels
+- Legends
 - Grid
+- Styles
 - Working with CSV Files
 - Plotting with Pandas
 - Saving Figures
 
-**Link**
+---
 
-https://youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
+# 📚 Learning Resources
+
+The complete list of learning resources is available in:
+
+➡️ **[Resources.md](Resources.md)**
 
 ---
 
-# 🎥 Secondary Resource
+# 📅 Weekly Study Plan
 
-## Matplotlib Official Tutorials
-
-**Description**
-
-Official tutorials that explain Matplotlib features with practical examples and detailed documentation.
-
-**Link**
-
-https://matplotlib.org/stable/tutorials/
+➡️ **[Week-07/README.md](Week-07/README.md)**
 
 ---
 
-# 📖 Reading Resources
+# 📖 Reading Tasks
 
-## Matplotlib Official Documentation
-
-The official documentation for Matplotlib. This should be your primary reading reference throughout the module.
-
-https://matplotlib.org/stable/
+➡️ **[Week-07/Reading.md](Week-07/Reading.md)**
 
 ---
 
-## Matplotlib User Guide
+# 💻 Practice Tasks
 
-Comprehensive documentation covering plotting, customization, styles, legends, axes, and figures.
-
-https://matplotlib.org/stable/users/index.html
-
----
-
-## Real Python – Python Matplotlib Guide
-
-Detailed explanations with practical examples and visualization techniques.
-
-https://realpython.com/python-matplotlib-guide/
-
----
-
-## Matplotlib Gallery
-
-A collection of plotting examples that demonstrates different chart types and customization techniques.
-
-https://matplotlib.org/stable/gallery/
-
----
-
-# 📚 Recommended Learning Order
-
-Students should study the resources in the following order:
-
-1. Corey Schafer – Matplotlib Tutorials
-2. Matplotlib Official Documentation
-3. Matplotlib User Guide
-4. Real Python – Python Matplotlib Guide
-5. Matplotlib Gallery
-
----
-
-# 📝 Study Guidelines
-
-For every lesson:
-
-- Watch the assigned lecture before reading.
-- Type every code example yourself instead of copying.
-- Execute every example in Jupyter Notebook.
-- Modify the examples and observe the output.
-- Complete the assigned reading tasks.
-- Finish the weekly practice exercises.
-- Write **3–5 key learning points** after every study session.
-
----
-
-# 💡 Learning Tips
-
-- Start with simple line plots before exploring advanced charts.
-- Focus on understanding the purpose of each visualization.
-- Practice customizing labels, titles, legends, and colors.
-- Use the Electrical Engineering datasets created in the Pandas module for plotting.
-- Experiment with different chart styles.
-- Commit your work to GitHub after completing each practice session.
+➡️ **[Week-07/Practice.md](Week-07/Practice.md)**
 
 ---
 
 # ⚡ Electrical Engineering Applications
 
-Throughout this module, students will visualize engineering data such as:
+Students will visualize datasets such as:
 
 - Voltage vs Time
 - Current vs Time
-- Power Consumption
+- Power vs Time
 - Energy Consumption
 - Solar Power Generation
 - Battery State of Charge (SOC)
 - Load Demand
 - Frequency Measurements
-- Sensor Readings
 
 ---
 
-# 📦 Expected Outcome
+# 📦 Module Deliverables
 
-After completing this module, students should be able to:
+By the end of this module, students should complete:
 
-- Create professional data visualizations.
-- Build line, bar, scatter, histogram, pie, and stack plots.
-- Customize charts for better readability.
-- Visualize datasets created using NumPy and Pandas.
-- Export high-quality figures for reports and presentations.
+- ✅ Matplotlib Practice Notebook
+- ✅ Reading Notes
+- ✅ Line Plot Exercises
+- ✅ Bar Chart Exercises
+- ✅ Scatter Plot Exercises
+- ✅ Histogram Exercises
+- ✅ Pie Chart Exercises
+- ✅ Mini Visualization Project
+- ✅ Updated GitHub Repository
+
+---
+
+# 🚀 Next Module
+
+The next module introduces **Python Development Tools**, where students will learn professional software development practices using:
+
+- Git & GitHub
+- Visual Studio Code
+- Virtual Environments
+- pip
+- Jupyter Notebook
+- Project Organization
+- Python Best Practices
