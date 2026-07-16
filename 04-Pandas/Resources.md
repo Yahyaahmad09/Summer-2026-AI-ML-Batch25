@@ -35,6 +35,8 @@ The primary video course for this module. It introduces Pandas step by step, cov
 
 https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
 
+https://youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&si=1ywQI9i-23Tf_YWg 
+
 ---
 
 # 🎥 Secondary Resource
