@@ -17,7 +17,7 @@ This file explains the difference between:
 
 using practical Electrical Engineering examples.
 
-Author: Summer 2026 AI & ML Batch
+Author: Yahya Ahmad
 ============================================================
 """
 

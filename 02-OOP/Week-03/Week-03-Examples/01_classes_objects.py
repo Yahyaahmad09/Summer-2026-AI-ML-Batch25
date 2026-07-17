@@ -18,7 +18,7 @@ Topics Covered
 ✔ Positional Arguments
 ✔ Keyword Arguments
 
-Author: Summer 2026 AI & ML Batch
+Author: Yahya Ahmad
 ============================================================
 """
 

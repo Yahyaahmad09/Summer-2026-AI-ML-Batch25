@@ -19,7 +19,7 @@ Topics Covered
 ✔ Keyword Arguments
 ✔ Accessing Object Attributes
 
-Author: Summer 2026 AI & ML Batch
+Author: Yahya Ahmad
 ============================================================
 """
 
